@@ -1,6 +1,6 @@
  # Monday Coffee – Expansion Analysis
  
-📌 Project Overview
+## 📌 Project Overview
 Monday Coffee is a fast-growing online coffee brand that aims to expand by opening three physical stores in India's major cities. Since its launch in January 2023, the company has successfully sold its products online, receiving overwhelmingly positive responses from customers across various cities.
 
 This project focuses on analyzing sales data to identify the top three cities for expansion based on key metrics like revenue, customer base, and market potential.
